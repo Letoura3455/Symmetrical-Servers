@@ -1,5 +1,5 @@
 pcall(function()
-    game:GetService('CoreGui')['bluhub']:Destroy()
+    game:GetService('CoreGui')['Symmetrical Servers']:Destroy()
 end)
 
 if not getgenv().theme then getgenv().theme = Color3.fromRGB(255,65,65) end
